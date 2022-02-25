@@ -7,9 +7,9 @@ The API is in charged of all the CRUD Operations of the folders task, users
 
 Back-end:
 
-Python 3.10.0
+Python 3.8.10
 
-Django 3.8.10
+Django 3.2.6
 
 sqllite3
 
